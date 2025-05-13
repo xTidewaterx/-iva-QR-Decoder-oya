@@ -2,6 +2,7 @@ import React, { useEffect } from 'react'
 import { useContext } from 'react'
 import { qrContext } from '../App'
 
+
 export const FileSelector = () => {
 
 
